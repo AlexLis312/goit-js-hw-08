@@ -1,7 +1,6 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08",
   "version": "2.0.0",
-  "main": "index.js",
   "description": "Цей проект створено за допомогою Parcel. Для ознайомлення та налаштування \r додаткових можливостей, [зверніться до документації](https://parceljs.org/).",
   "homepage": "https://AlexLis312.github.io/goit-js-hw-08",
   "scripts": {
@@ -14,9 +13,6 @@
   },
   "keywords": [],
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AlexLis312/goit-js-hw-08/issues"
-  },
   "dependencies": {
     "modern-normalize": "^1.1.0"
   },
