@@ -1,21 +1,21 @@
 {
   "name": "parcel-project-template",
   "version": "2.0.0",
-  "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "main": "src/*.js",
+  "description": "Цей проект створено за допомогою Parcel. Для ознайомлення та налаштування \r додаткових можливостей, [зверніться до документації](https://parceljs.org/).",
+  "homepage": "https://AlexLis312.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/AlexLis312/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/AlexLis312/goit-js-hw-08/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
@@ -26,5 +26,6 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "author": "Alex XeX <metalstyle545@gmail.com>"
 }
