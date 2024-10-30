@@ -15,4 +15,3 @@ player.on('timeupdate', throttle(updatePlaybackTime, 1000));
 if (savedPlaybackTime) {
   player.setCurrentTime(savedPlaybackTime);
 }
-s;
